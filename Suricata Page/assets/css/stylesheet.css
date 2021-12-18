@@ -1,0 +1,35 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-dark {
+    background-color: #E83E8C;
+}
+
+.navbar-brand img {
+    width: 132px;
+    height: 53px;
+}
+
+.display-4 {
+    font-weight: 700;
+    color: #707070;
+}
+
+.card { 
+    width: 20em;
+}
+
+.icons-section {
+    background-color: #17A2B8;
+    color: #FFFFFF;
+}
+
+footer {
+    background-color: #E83E8C;
+}
+
+footer img {
+    width: 53px;
+    height: 100px;
+}
